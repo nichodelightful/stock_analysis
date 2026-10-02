@@ -32,7 +32,7 @@
 - **校驗**:各指數 9/29 前收皆與前一份報告吻合;收盤價來自 Yahoo Finance 歷史頁,S&P、道瓊、Nasdaq 另與 ABC/AP 一致。
 - **週累計(AP,以 9/25 為基準)**:S&P −1.2%、道瓊 −1.8%、Nasdaq −0.8%、Russell 2000 −1.4%。
 - **年初至今(AP)**:S&P **+11.8%**(+806.04 點)、道瓊 +5.9%(+2,842.76)、Nasdaq **+15.6%**(+3,619.07)、Russell 2000 +12.7%。
-- **9 月與 Q3 結算——各來源互相矛盾,本報告不採單一數字**:
+- **9 月與 Q3 結算——撰稿當時各來源互相矛盾、未確認;後續 10/1 已用 Yahoo 月線自算並與 CNBC/Yahoo 交叉確認:S&P 9 月 −0.45%、Q3 +2.03%;道瓊 9 月 −4.29%、Q3 −2.70%;Nasdaq 9 月 +1.86%、Q3 +2.47%(見 `../../2026-10/10-01/US_PostMarket.md`)。以下為當時的原始紀錄**:
   - CNBC 轉述:9 月 S&P −0.5%、道瓊 −4.3%、Nasdaq +1.9%;Q3 S&P +2%、Nasdaq +2.5%、道瓊 −2.7%。
   - Yahoo 即時報導:9 月道瓊 −4.9%、S&P −0.7%、Nasdaq +1.7%;同頁寫 S&P Q3 **+4.3%**,與 CNBC 的 +2% 衝突(另有搜尋結果稱 9/22 時季內約 +3.54%,三者皆對不上)。
   - **我曾嘗試用 Yahoo 的 6/30、8/31 收盤價自行計算,但抓取結果被摘要工具弄亂(日期範圍錯誤、道瓊 9/29 出現與已驗證值矛盾的數字),因此作廢。**方向可確認:9 月道瓊明顯落後、Nasdaq 相對抗跌。
@@ -166,4 +166,4 @@
 
 ---
 
-*資料來源:Yahoo Finance 歷史頁(指數、債匯商品)、stockanalysis.com(META)、ABC News/AP 與 BNN Bloomberg(指數表、年初至今、個股)、BEA 原文頁面(PCE;fetch 摘要)、Fed H.15、Micron IR 新聞稿、Investing.com 逐字稿摘要、ZeroHedge、Bloomberg 經 Rigzone(油價結算)、Fox Business、Wolf Street、ADP 新聞稿、Trading Economics 與各搜尋摘要(CNBC、Reuters、Benzinga 等,2026/9/30–10/1)。**⚠️ 誠實標註:CNBC、TheStreet、Benzinga、Bloomberg、S&P Global 等多數原文 403,內容取自搜尋摘要;Q2 GDP 終值數字取自搜尋摘要(BEA 該頁 404);PCE 預期值為轉述、未捨入數字未直接驗證;9 月與 Q3 漲跌幅各來源互相矛盾,我自行以 Yahoo 計算的嘗試因抓取結果失真而作廢,未採用;各板塊當日與 Q3 排名查不到;9/30 H.15 官方殖利率尚未發布,本報告用近收盤值;Treasury 官方頁面 10 年期疑為日期錯位,不引用;FedWatch 為第三方轉述、尾盤收盤值不明;美光共識各來源不一(營收 $504.5–514.9 億、EPS $31.16–31.83)、盤後反應方向各異且時點不明、HBM 與 HBM4 細節與 8-K 全文未取得;長約 $320 億、台積電與南亞科法說日期為單一或非官方來源;比特幣 9/30 UTC 日線收盤未取得;光通訊與 CPO 9/30 專屬新聞查無;台股 10/1 資料未取得;9/30 Fed 官員發言查不到。** 相關報告:`../09-29/US_PostMarket.md`、`../09-30/TW_PostMarket.md`、`../FOMC_2026-09_利率點陣圖解析.md`。本報告僅供研究參考,非投資建議。*
+*資料來源:Yahoo Finance 歷史頁(指數、債匯商品)、stockanalysis.com(META)、ABC News/AP 與 BNN Bloomberg(指數表、年初至今、個股)、BEA 原文頁面(PCE;fetch 摘要)、Fed H.15、Micron IR 新聞稿、Investing.com 逐字稿摘要、ZeroHedge、Bloomberg 經 Rigzone(油價結算)、Fox Business、Wolf Street、ADP 新聞稿、Trading Economics 與各搜尋摘要(CNBC、Reuters、Benzinga 等,2026/9/30–10/1)。**⚠️ 誠實標註:CNBC、TheStreet、Benzinga、Bloomberg、S&P Global 等多數原文 403,內容取自搜尋摘要;Q2 GDP 終值數字取自搜尋摘要(BEA 該頁 404);PCE 預期值為轉述、未捨入數字未直接驗證;9 月與 Q3 漲跌幅撰稿當時各來源互相矛盾、我自行以 Yahoo 計算的嘗試因抓取結果失真而作廢(後續 10/1 已重新計算並確認,見 `../../2026-10/10-01/US_PostMarket.md`);各板塊當日與 Q3 排名查不到;9/30 H.15 官方殖利率撰稿時尚未發布、本報告用近收盤值(10/1 公布後確認 2 年 4.88%、10 年 5.29%、30 年 5.64%,與近收盤值吻合);Treasury 官方頁面 10 年期疑為日期錯位,不引用;FedWatch 為第三方轉述、尾盤收盤值不明;美光共識各來源不一(營收 $504.5–514.9 億、EPS $31.16–31.83)、盤後反應方向各異且時點不明、HBM 與 HBM4 細節與 8-K 全文未取得;長約 $320 億、台積電與南亞科法說日期為單一或非官方來源;比特幣 9/30 UTC 日線收盤未取得;光通訊與 CPO 9/30 專屬新聞查無;台股 10/1 資料未取得;9/30 Fed 官員發言查不到。** 相關報告:`../09-29/US_PostMarket.md`、`../09-30/TW_PostMarket.md`、`../FOMC_2026-09_利率點陣圖解析.md`。本報告僅供研究參考,非投資建議。*
