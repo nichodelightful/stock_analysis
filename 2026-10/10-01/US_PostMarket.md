@@ -37,12 +37,12 @@
 
 | 指數 | 9 月 | Q3 | 年初至今 |
 |---|---|---|---|
-| S&P 500 | **−0.45%**(8/31 7,686.14 → 7,651.54) | **+2.03%**(6/30 7,499.36) | **+11.99%**(2025 年底 6,845.50) |
-| 道瓊 | **−4.29%**(53,185.90 → 50,906.05) | **−2.70%**(6/30 52,319.20) | **+5.96%**(2025 年底 48,063.29) |
-| Nasdaq 綜合 | **+1.86%**(26,370.89 → 26,861.06) | **+2.47%**(6/30 26,213.72) | **+15.62%**(2025 年底 23,241.99) |
+| S&P 500 | **−0.45%**(8/31 7,686.14 → 7,651.54) | **+2.03%**(6/30 7,499.36) | **+11.78%**(2025 年底 6,845.50;AP 為 +11.8%) |
+| 道瓊 | **−4.29%**(53,185.90 → 50,906.05) | **−2.70%**(6/30 52,319.20) | **+5.91%**(2025 年底 48,063.29;AP 為 +5.9%) |
+| Nasdaq 綜合 | **+1.86%**(26,370.89 → 26,861.06) | **+2.47%**(6/30 26,213.72) | **+15.57%**(2025 年底 23,241.99;AP 為 +15.6%) |
 
 - CNBC 與 Yahoo 摘要的 S&P 9 月 −0.5% / −0.4% 只是四捨五入差異。先前某份 Yahoo 摘要寫 S&P Q3 +4.3%,**與計算結果不符,判為錯誤**。
-- **限制**:2025 年底基準值未用其他來源核對;道瓊的 Q3 與年初至今沒有媒體數字可交叉,僅為自算。
+- **更正(10/5)**:研究回報原列的年初至今百分比(+11.99%、+5.96%、+15.62%)與其基準值相除不符,已改為重算值;基準值與 AP 在 9/30 的點數變動吻合(S&P +806.04、道瓊 +2,842.76、Nasdaq +3,619.07)。道瓊 Q3 沒有媒體數字可交叉,僅為自算。
 - **其他(搜尋摘要,單一來源)**:Russell 2000 9 月下跌逾 5%、Q3 約 −7.5%;債市本季為「數十年來最差的一季」(Yahoo)。
 
 ### 板塊(stockanalysis.com,SPDR 11 檔;單一來源、自行彙整)
@@ -218,4 +218,4 @@
 
 ---
 
-*資料來源:Yahoo Finance 歷史頁(指數、個股、債匯商品)、stockanalysis.com(個股與板塊 ETF)、ISM 官方新聞稿(經 PR Newswire)、Fed H.15、Accenture SEC 8-K、Newsquawk 市場總結、Reuters 經 US News、FXStreet、investingLive、Seeking Alpha、BigGo、Korea JoongAng Daily、Seoul Economic Daily、24/7 Wall St.、Bloomberg/CNBC/CNN/Fox/Time(多為搜尋摘要)(2026/10/1–10/2)。**⚠️ 誠實標註:CNBC、TheStreet、Benzinga、CNN、US News 原文 403/451/逾時,多數內容取自搜尋摘要;AP 週累計表、Bloomberg/Rigzone 10/1 結算未取得;Q3 與 9 月統計為我以 Yahoo 月線自算並與 CNBC/Yahoo 摘要交叉,2025 年底基準與道瓊 Q3/YTD 未能另行核對;DXY 與黃金 10/1 收盤在 Yahoo 出現重複列,數字有 ±0.1 或 ±10 美元不確定性;WTI 的 TE CFD 報價與 Yahoo/Newsquawk 方向相反、無法調和;2 年期殖利率僅 Newsquawk 與 TE 兩個二手來源;10/1 的 H.15 官方值尚未發布;FedWatch 為第三方轉述、各來源落差大,CME 官網未取得;10 年期『2002 年以來最高』為 Bloomberg 對盤中 5.34% 的說法,與先前『2007 年以來』口徑不一;Nike 盤後跌幅與 Greater China 衰退幅度(−22% 對 −26%)各來源不一;美光盤中跌幅(1%–4%)各來源不一、Google Finance 與 Yahoo 收盤價差 7 美元;Accenture 盤中 +22% 與『史上最佳單日』為單一來源;Broadcom 下跌原因為推論;Coherent PhotonLink 為 9/21 舊聞;AAPL、GOOGL 下跌原因與 Oracle、OpenAI 10/1 新聞查不到;Collins、Logan、Warsh 10/1 發言與非農實際值未取得;台股 10/1–10/2 資料未取得;預算案簽署日期各來源不一。** 相關報告:`../../2026-09/09-30/US_PostMarket.md`、`../../2026-09/09-30/TW_PostMarket.md`、`../../2026-09/FOMC_2026-09_利率點陣圖解析.md`。本報告僅供研究參考,非投資建議。*
+*資料來源:Yahoo Finance 歷史頁(指數、個股、債匯商品)、stockanalysis.com(個股與板塊 ETF)、ISM 官方新聞稿(經 PR Newswire)、Fed H.15、Accenture SEC 8-K、Newsquawk 市場總結、Reuters 經 US News、FXStreet、investingLive、Seeking Alpha、BigGo、Korea JoongAng Daily、Seoul Economic Daily、24/7 Wall St.、Bloomberg/CNBC/CNN/Fox/Time(多為搜尋摘要)(2026/10/1–10/2)。**⚠️ 誠實標註:CNBC、TheStreet、Benzinga、CNN、US News 原文 403/451/逾時,多數內容取自搜尋摘要;AP 週累計表、Bloomberg/Rigzone 10/1 結算未取得;Q3 與 9 月統計為我以 Yahoo 月線自算並與 CNBC/Yahoo 摘要交叉(年初至今百分比已於 10/5 重算更正,基準值與 AP 點數變動吻合);道瓊 Q3 無媒體數字可交叉;DXY 與黃金 10/1 收盤在 Yahoo 出現重複列,數字有 ±0.1 或 ±10 美元不確定性;WTI 的 TE CFD 報價與 Yahoo/Newsquawk 方向相反、無法調和;2 年期殖利率僅 Newsquawk 與 TE 兩個二手來源;10/1 的 H.15 官方值尚未發布;FedWatch 為第三方轉述、各來源落差大,CME 官網未取得;10 年期『2002 年以來最高』為 Bloomberg 對盤中 5.34% 的說法,與先前『2007 年以來』口徑不一;Nike 盤後跌幅與 Greater China 衰退幅度(−22% 對 −26%)各來源不一;美光盤中跌幅(1%–4%)各來源不一、Google Finance 與 Yahoo 收盤價差 7 美元;Accenture 盤中 +22% 與『史上最佳單日』為單一來源;Broadcom 下跌原因為推論;Coherent PhotonLink 為 9/21 舊聞;AAPL、GOOGL 下跌原因與 Oracle、OpenAI 10/1 新聞查不到;Collins、Logan、Warsh 10/1 發言與非農實際值未取得;台股 10/1–10/2 資料未取得;預算案簽署日期各來源不一。** 相關報告:`../../2026-09/09-30/US_PostMarket.md`、`../../2026-09/09-30/TW_PostMarket.md`、`../../2026-09/FOMC_2026-09_利率點陣圖解析.md`。本報告僅供研究參考,非投資建議。*
