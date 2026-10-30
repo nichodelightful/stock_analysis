@@ -172,13 +172,13 @@
 
 ### 台股連結
 - **台股 10/12(連假後首日)**:加權 **−0.02% 收 49,301.96**,盤中低 48,768.82;外資賣超 521.98 億;航運 +5.12%、光電 +3.49%、金融 +2.87%;台達電 −3.31%、鴻海 −1.81%(見 `./TW_PostMarket.md`)。
-- **台股 10/13(今日)反映本報告**:**撰稿時台股尚在盤中(11:45 AM,台積電 2,505、−35、−1.38%,僅為盤中、非收盤;與 10/12 收盤 2,540 銜接)**,EWT 10/12 −0.04%;**美股半導體重挫(SMH −2.05%、SOX −2.67%、TSM ADR −1.98%、美光 −3.88%、光通訊 −6%~−10%)與韓股 10/12 三星與 SK hynix 各跌約 4.4%~4.5% 的方向,與台積電盤中走弱一致(推論)**。**10/13 台股收盤資料未取得。**
+- **台股 10/13(今日)反映本報告**:**撰稿時台股尚在盤中(11:45 AM,台積電 2,505、−35、−1.38%,僅為盤中、非收盤;與 10/12 收盤 2,540 銜接)**,EWT 10/12 −0.04%;**美股半導體重挫(SMH −2.05%、SOX −2.67%、TSM ADR −1.98%、美光 −3.88%、光通訊 −6% 至 −10%)與韓股 10/12 三星與 SK hynix 各跌約 4.4%–4.5% 的方向,與台積電盤中走弱一致(推論)**。**10/13 台股收盤資料未取得。**
 
 ---
 
 ## 六、綜合結論與焦點
 
-1. **AI 硬體的第二次大幅回檔**:10/8 SOX −3.39%、10/9 −0.41%、**10/12 −2.67%**,自 10/7 累計約 −6.3%;**光通訊(Ciena、Lumentum、Coherent 單日 −8%~−10%)與記憶體(美光跌破 $1,000)領跌**,而**道瓊上漲、防禦與能源領漲**——資金由 AI 與半導體流向防禦與傳統板塊。
+1. **AI 硬體的第二次大幅回檔**:10/8 SOX −3.39%、10/9 −0.41%、**10/12 −2.67%**,自 10/7 累計約 −6.3%;**光通訊(Ciena、Lumentum、Coherent 單日 −8% 至 −10%)與記憶體(美光跌破 $1,000)領跌**,而**道瓊上漲、防禦與能源領漲**——資金由 AI 與半導體流向防禦與傳統板塊。
 2. **催化尚不清楚**:標題級說法包括「AI 資金疑慮」「中國 CXMT 競爭」「Musk 稱記憶體更難」「陳福陽稱投資人不了解 AI」;**本報告不判斷這是基本面或情緒**。Meta(+3.38%)、Microsoft(+1.14%)與 Apple(+1.29%)逆勢上漲。
 3. **能源與油價上行**:WTI +2.06% 收 93.74、Brent +1.84% 收 106.65,XLE +1.43%;**漲因未取得**。
 4. **利率面資料不足**:公債休市、H.15 10/9 與 10/12 數字待核;FedWatch 10 月升息約 19.5%、12 月約 68%。
@@ -191,4 +191,4 @@
 
 ---
 
-*資料來源:Yahoo Finance 歷史頁(指數、個股、ETF、期貨、DXY、比特幣、^TNX)、stockanalysis.com(個股頁面,標示 2026/10/12 收盤;SPY、QQQ、DIA、SMH、EWT 頁面;三星與 SK hynix 頁面)、TSMC IR 月營收頁面(investor.tsmc.com)、BLS 官方日程、Investing.com(Fed Rate Monitor、財報日曆、市場摘要)、Trading Economics(CPI 基準)、Fed H.15(經 WebFetch 工具摘要)、Yahoo 標題與連結文章(Stocktwits、Motley Fool)(2026/10/12–10/13)。**⚠️ 誠實標註:WebSearch 額度已用盡,全部內容取自 WebFetch;AP、Reuters、CNBC、Newsquawk 全文未取得,故無總體驅動因素、哥倫布日評論、市場廣度與油價上漲原因;指數與個股皆為 Yahoo 單一來源(與 stockanalysis.com 的 ETF 與 Investing.com 摘要相互吻合);年初至今、AP 週表、10/12 美國數據、Fed 官員 10/10–10/12 發言、週末川普與中東事件、OPEC+、關稅、SpaceX 頻譜交易細節皆未取得;公債現貨休市、Yahoo ^TNX 5.24% 為假日沿用不可用、H.15 10/9 與 10/8 完全相同疑似異常、未採用;FedWatch 為 Investing.com Fed Rate Monitor、12 月數字累積或單次不明;Oracle 的 stockanalysis.com 頁面數字自相矛盾,採 Yahoo 自算 −2.84%;三星 Q3 初步財報營業利潤 107.4 兆韓元僅二手頁面、與『令人失望』說法衝突;三星與 SK hynix『跌逾 7%』與 stockanalysis.com 的 −4.4%~−4.5% 衝突;TMUS 的 Yahoo 頁面有互相矛盾的跌幅說法;比特幣 Yahoo 歷史頁輸出錯亂、僅為概數;商品價格沿用 Yahoo 序列、與 10/7 報告基準不同;AI 領跌催化(AI 資金疑慮、CXMT、Musk 記憶體說法、陳福陽評論、SpaceX 融資傳聞)皆為標題級單一或二手來源;電信反彈的『資金轉入防禦』為我的解讀;台積電公布日未確認;台股 10/13 收盤未取得;Investing.com 未標日期摘要中的 Kroger、Omron、Goldman、BlackRock、利雅德機場為單一來源、未核實。** 相關報告:`../10-09/US_PostMarket.md`、`./TW_PostMarket.md`、`../../2026-09/FOMC_2026-09_利率點陣圖解析.md`。本報告僅供研究參考,非投資建議。*
+*資料來源:Yahoo Finance 歷史頁(指數、個股、ETF、期貨、DXY、比特幣、^TNX)、stockanalysis.com(個股頁面,標示 2026/10/12 收盤;SPY、QQQ、DIA、SMH、EWT 頁面;三星與 SK hynix 頁面)、TSMC IR 月營收頁面(investor.tsmc.com)、BLS 官方日程、Investing.com(Fed Rate Monitor、財報日曆、市場摘要)、Trading Economics(CPI 基準)、Fed H.15(經 WebFetch 工具摘要)、Yahoo 標題與連結文章(Stocktwits、Motley Fool)(2026/10/12–10/13)。**⚠️ 誠實標註:WebSearch 額度已用盡,全部內容取自 WebFetch;AP、Reuters、CNBC、Newsquawk 全文未取得,故無總體驅動因素、哥倫布日評論、市場廣度與油價上漲原因;指數與個股皆為 Yahoo 單一來源(與 stockanalysis.com 的 ETF 與 Investing.com 摘要相互吻合);年初至今、AP 週表、10/12 美國數據、Fed 官員 10/10–10/12 發言、週末川普與中東事件、OPEC+、關稅、SpaceX 頻譜交易細節皆未取得;公債現貨休市、Yahoo ^TNX 5.24% 為假日沿用不可用、H.15 10/9 與 10/8 完全相同疑似異常、未採用;FedWatch 為 Investing.com Fed Rate Monitor、12 月數字累積或單次不明;Oracle 的 stockanalysis.com 頁面數字自相矛盾,採 Yahoo 自算 −2.84%;三星 Q3 初步財報營業利潤 107.4 兆韓元僅二手頁面、與『令人失望』說法衝突;三星與 SK hynix『跌逾 7%』與 stockanalysis.com 的 −4.4% 至 −4.5% 衝突;TMUS 的 Yahoo 頁面有互相矛盾的跌幅說法;比特幣 Yahoo 歷史頁輸出錯亂、僅為概數;商品價格沿用 Yahoo 序列、與 10/7 報告基準不同;AI 領跌催化(AI 資金疑慮、CXMT、Musk 記憶體說法、陳福陽評論、SpaceX 融資傳聞)皆為標題級單一或二手來源;電信反彈的『資金轉入防禦』為我的解讀;台積電公布日未確認;台股 10/13 收盤未取得;Investing.com 未標日期摘要中的 Kroger、Omron、Goldman、BlackRock、利雅德機場為單一來源、未核實。** 相關報告:`../10-09/US_PostMarket.md`、`./TW_PostMarket.md`、`../../2026-09/FOMC_2026-09_利率點陣圖解析.md`。本報告僅供研究參考,非投資建議。*
