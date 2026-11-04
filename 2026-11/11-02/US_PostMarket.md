@@ -350,7 +350,7 @@
 
 **資料等級與衝突(並列):**
 - **資料等級:** Yahoo 日線與 5 分鐘(核對 Reuters)、Treasury XML、ISM 與 Palantir 新聞稿(A);Reuters/CNBC/Bloomberg/WSJ/Fortune/Business Insider/MacRumors/Axios 等轉載(B);Wind 轉引 BigGo、Moomoo、IBTimes、STL.News、TradingKey、FourWeekMBA、Dealroom 等(C)。
-- **指數衝突:** S&P 7,541.40(Yahoo)vs Reuters 初值 7,542.27;Nasdaq 25,164.36 vs 25,164.32;道瓊 +213.67 vs IBD +278;SOX −3.37%(Yahoo)vs −3.35%(Bloomberg);VIX 21.15(Yahoo)vs 21.18(Reuters/RealMoney);**費半距高點:自算 −21.86%(對 10/6 收盤)vs 另一來源「−29.4%」(高點日期不同,未能核對)**。
+- **指數衝突:** S&P 7,541.40(Yahoo)vs Reuters 初值 7,542.27;Nasdaq 25,164.36 vs 25,164.32;道瓊 +213.67 vs IBD +278;SOX −3.37%(Yahoo)vs −3.35%(Bloomberg);VIX 21.15(Yahoo)vs 21.18(Reuters/RealMoney);**費半距高點:−21.86% 是對 10/6 收盤;−29.4% 是對 6/22 紀錄收盤 14,634.72(11/3 已核實,費半歷史高點是 6/22 而非 10/6)**。
 - **Apple:** 收盤 −1.83%(Yahoo、CNBC-TV18)vs −1.5%(Reuters);盤後 −1% 至 −4.5% 並列;**Apple 新聞稿原文與賣方調整未取得,財報數字由 B 級媒體交叉(多來源一致)。**
 - **Palantir:** 收盤 $178.34(−3.13%,Yahoo)vs $178.44(−3.08%);盤後約 −3.0% 至 −3.8%;**Q4 指引「約 $2.65B」與「$2.64B 至 $2.65B」並列。**
 - **其他並列:** Oracle −8.76% vs 6% 至 7%;WTI 結算 $96.46(B)vs Yahoo 連續合約約 96.5–96.7 vs Moomoo $96.26;Brent $104.77 vs $104.23;黃金現貨 $3,946.50 vs $3,954;Binance 淨流出;KOSPI 11/3 盤中 −2.6% 至 −3.8%;日經 −0.33% vs −0.7%;12 月升息機率約 72%/75%;台股成交值以官方 7,895.30 億為準(Taiwan News 等寫約 7,589 億)。
